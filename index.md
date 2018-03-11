@@ -21,3 +21,8 @@ This resource pack is designed to keep Minecraft normal, but make slight changes
  
 - 1.8.9
   - _Empty_
+
+
+## Issues
+
+Are there any issues with the resource pack? Please open an issue on the GitHub, which can be done [here](https://github.com/lieuwe-berg/bmcpack/issues). Suggestions are always appreciated on the same issues page.
