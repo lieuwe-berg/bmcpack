@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# Better Minecraft
 
-You can use the [editor on GitHub](https://github.com/lieuwe-berg/bmcpack/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This resource pack is designed to keep Minecraft normal, but make slight changes that perfect it. A better sun and moon, lower entity fire. A full list of changes can be found [on this page](changes).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* * *
 
-### Markdown
+## Versions
+> Using 1.8 on version 1.12.2 may work, but is not recommended. Downloading the different versions will guarantee all of the textures to be loaded properly.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+| Version | Download Link   | Version |
+|:--------|:----------------|:--------|
+| 1.8.9   | W.I.P.          | -       |
+| 1.12.2  | W.I.P.          | -       |
 
-```markdown
-Syntax highlighted code block
+* * *
 
-# Header 1
-## Header 2
-### Header 3
+## Changelog
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lieuwe-berg/bmcpack/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- 1.12.2
+  - _Empty_
+ 
+- 1.8.9
+  - _Empty_
