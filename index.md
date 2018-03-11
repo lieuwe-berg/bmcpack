@@ -1,4 +1,4 @@
-# Better Minecraft
+## Better Minecraft
 
 This resource pack is designed to keep Minecraft normal, but make slight changes that perfect it. A better sun and moon, lower entity fire. A full list of changes can be found [on this page](changes).
 
