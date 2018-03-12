@@ -9,8 +9,8 @@ This resource pack is designed to keep Minecraft's textures the default, but mak
 
 | Version | Latest   | Version |
 |:--------|:---------|:--------|
-| 1.12.2  | W.I.P.   | -       |
-| 1.8.9   | W.I.P.   | -       |
+| 1.12.2  | [Download](http://www.mediafire.com/file/0k6ec6e1vqqv2gg/Better_Minecraft_1.12.2_v0.1.0.zip) | 0.1.0   |
+| 1.8.9   | [Download](http://www.mediafire.com/file/hqevh0gqkk3eoe9/Better%20Minecraft%201.8.9%20v0.1.0.zip) | 0.1.0   |
 
 ## Changelog
 
