@@ -1,6 +1,6 @@
 ## Better Minecraft
 
-This resource pack is designed to keep Minecraft's textures the default, but make slight changes that perfect it. A better sun and moon, lower entity fire. A full list of changes can be found [on this page](changes). The pack is mostly 32x32, with Faithful being the placeholder resource pack. See all of the used resource packs on [this page](used-packs).
+This resource pack is designed to keep Minecraft's textures the default, but make slight changes that perfect it. A better sun and moon, lower entity fire. A full list of changes can be found below in the changelog. The pack is mostly 32x32, with Faithful being the placeholder resource pack. See all of the used resource packs on [this page](used-packs).
 
 * * *
 
