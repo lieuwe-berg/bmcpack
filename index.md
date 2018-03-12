@@ -15,10 +15,18 @@ This resource pack is designed to keep Minecraft's textures the default, but mak
 ## Changelog
 
 - 1.12.2
-  - _Empty_
+  - Added:
+      - Lower entity fire
+      - New sun texture
+      - New moon texture
+      - Stonebrick menu background
  
 - 1.8.9
-  - _Empty_
+    - Added:
+      - Lower entity fire
+      - New sun texture
+      - New moon texture
+      - Stonebrick menu background
 
 
 ## Issues
