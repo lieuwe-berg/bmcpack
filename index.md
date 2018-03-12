@@ -7,10 +7,10 @@ This resource pack is designed to keep Minecraft's textures the default, but mak
 ## Versions
 > Using 1.8 on version 1.12.2 may work, but is not recommended. Downloading the different versions will guarantee all of the textures to be loaded properly.
 
-| Version | Download Link   | Version |
-|:--------|:----------------|:--------|
-| 1.8.9   | W.I.P.          | -       |
-| 1.12.2  | W.I.P.          | -       |
+| Version | Latest   | Version |
+|:--------|:---------|:--------|
+| 1.8.9   | W.I.P.   | -       |
+| 1.12.2  | W.I.P.   | -       |
 
 * * *
 
