@@ -9,10 +9,8 @@ This resource pack is designed to keep Minecraft's textures the default, but mak
 
 | Version | Latest   | Version |
 |:--------|:---------|:--------|
-| 1.8.9   | W.I.P.   | -       |
 | 1.12.2  | W.I.P.   | -       |
-
-* * *
+| 1.8.9   | W.I.P.   | -       |
 
 ## Changelog
 
