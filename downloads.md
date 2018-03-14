@@ -12,6 +12,7 @@ Listed below are all of the downloads for the resource pack. Click the versions 
 6. Done! Now you can apply the resource pack in Minecraft.
 
 - 1.12.2
+    - [Download v0.1.2](http://www.mediafire.com/file/gf5d4v52uvdu0z7/Better_Minecraft_1.12.2_v0.1.2.zip)
     - [Download v0.1.0](http://www.mediafire.com/file/0k6ec6e1vqqv2gg/Better_Minecraft_1.12.2_v0.1.0.zip)
     
 - 1.8.9
