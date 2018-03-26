@@ -7,7 +7,7 @@ To be able to use connected textures, you will need [Optifine](https://optifine.
 * * *
 
 ## Versions
-> Using 1.8.9 on version 1.12.2 may work, but is not recommended. Downloading the different versions will guarantee all of the textures to be loaded properly.
+> You can use the 1.12.2 version on Minecraft 1.8.9. Be aware that it _is_ possible that some textures break.
 
 | Version | Latest   | Version | Release Date |
 |:--------|:---------|:--------|:-------------|
@@ -39,4 +39,4 @@ To be able to use connected textures, you will need [Optifine](https://optifine.
 
 ## Issues
 
-Are there any issues with the resource pack? Please open an issue on the GitHub, which can be done [here](https://github.com/lieuwe-berg/bmcpack/issues). Suggestions are always appreciated on the same issues page.
+Are there any issues with the resource pack? Please [open an issue on GitHub](https://github.com/lieuwe-berg/bmcpack/issues). Suggestions are always appreciated on the same issues page.
