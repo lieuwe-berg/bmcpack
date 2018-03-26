@@ -28,14 +28,6 @@ To be able to use connected textures, you will need [Optifine](https://optifine.
       - Sun texture
       - Moon texture
       - Stonebrick menu background
- 
-- 1.8.9
-    - Added:
-      - Lower entity fire
-      - New sun texture
-      - New moon texture
-      - Stonebrick menu background
-
 
 ## Issues
 
